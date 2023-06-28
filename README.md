@@ -2,8 +2,6 @@
 
 # A statistical approach to detect sensitive features in a group fairness setting
 
-### Authors: *Guilherme Dean Pelegrina*, *Miguel Couceiro*, *Leonardo Tomazeli Duarte*. 
-
 ## Introduction
 
 This work proposes an approach to detect sensitive features before training step. Our proposal is based on the Hilbert-Schmidt Independence Criterion (HSIC) and the hypothesis is that features with high dependence with the outcomes may entail disparate results. In order to evaluate our proposal, we consider the following datasets:
